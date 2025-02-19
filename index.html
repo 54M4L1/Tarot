@@ -916,7 +916,7 @@ loadingElement.textContent = 'جاري تحليل البطاقات...';
     const selectedCards = getRandomCards(cards, numCards);  // استخدام دالة getRandomCards
     const cardsWithImages = selectedCards.map(cardName => ({
       name: cardName.replace(/_/g, ' ').replace(/^\d+ /, ''),
-      image_url: `/Tara/images/deck/${cardName}.jpg`
+      image_url: `/images/deck/${cardName}.jpg`
     }));
 
     displayCards(cardsWithImages);

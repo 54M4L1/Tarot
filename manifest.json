@@ -1,0 +1,21 @@
+{
+  "name": "قارئ التاروت",
+  "short_name": "التاروت",
+  "start_url": "/Tara/index.html",      
+  "description": "قارئ التاروت الكميّ من سام علي",
+  "display": "standalone",
+  "background_color": "white",
+  "theme_color": "green",
+  "icons": [
+    {
+      "src": "/%E2%80%94Pngtree%E2%80%94mysterious%20tarot%20element%20combination_5391415.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/pngtree-sing-moon-tarot-symbol-png-image_3139433.jpg",  // هذه هي الأيقونة التي ستظهر على الشاشة الرئيسية
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}

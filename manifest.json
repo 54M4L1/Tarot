@@ -1,7 +1,7 @@
 {
   "name": "قارئ التاروت",
   "short_name": "التاروت",
-  "start_url": "/Tara/index.html",      
+  "start_url": "/index.html",      
   "description": "قارئ التاروت الكميّ من سام علي",
   "display": "standalone",
   "background_color": "white",
